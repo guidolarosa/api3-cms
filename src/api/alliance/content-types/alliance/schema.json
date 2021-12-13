@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "alliances",
+  "info": {
+    "singularName": "alliance",
+    "pluralName": "alliances",
+    "displayName": "Alliance"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "SEO_Title": {
+      "type": "string"
+    },
+    "SEO_Description": {
+      "type": "text"
+    }
+  }
+}
